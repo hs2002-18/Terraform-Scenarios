@@ -1,0 +1,11 @@
+aws_region = "ap-south-1"
+vpc_cidr = "10.0.0.0/16"
+private_sub_1 = "10.0.1.0/24"
+private_sub_2 = "10.0.2.0/24"
+az_1 = "ap-south-1a"
+az_2 = "ap-south-1b"
+allowed_cidr_blocks = ["10.0.0.0/16"]
+db_identifier = "my-sql"
+db_name = "appdb"
+db_username = "harsh"
+db_password = "*************"
