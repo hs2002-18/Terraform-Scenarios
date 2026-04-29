@@ -1,0 +1,10 @@
+aws_region    = "ap-south-1"
+env           = "dev"
+vpc_cidr      = "10.0.0.0/16"
+instance_type = "t3.micro"
+enable_ng     = false
+asg_min       = 1
+asg_desired   = 1
+asg_max       = 1
+create_rds    = false
+db_password   = "ChangeMe123!"

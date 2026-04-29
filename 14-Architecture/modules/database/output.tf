@@ -1,0 +1,1 @@
+output "db_created" { value = var.create_rds }
